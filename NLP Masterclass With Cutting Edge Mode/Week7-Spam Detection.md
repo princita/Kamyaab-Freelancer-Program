@@ -88,12 +88,44 @@
 ![image](https://github.com/user-attachments/assets/b8359d53-976f-45d0-8ef4-28a8e78f95a7)
 
 -------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/26654a63-8281-4b27-9122-e4e3dda1dcb2)
 
-![image]()
-![image]()
-![image]()
-![image]()
+increasing value of K we make svm hard classifer
+decreasing value of K we make svm soft classifer
+decrese the value of weight or k that process is called regularization
+k --->large --- less chance of SVM to enter -- hard classifer
+----------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/5c656afc-fa56-46e6-83e2-d5d31071dd27)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+![image](https://github.com/user-attachments/assets/e6c16b5c-1bdd-4f77-ba06-8563de537a1a)
+![image](https://github.com/user-attachments/assets/18dc64ae-bd6a-4304-b609-3cb5d675922e)
+![image](https://github.com/user-attachments/assets/2f391762-d98c-462a-840e-5612bce50c12)
+![image](https://github.com/user-attachments/assets/f906c8ae-b134-4c76-ba52-fc7dabf8c9a6)
+![image](https://github.com/user-attachments/assets/609ae2ab-b132-4b3a-85e5-7d8be69270bb)
+![image](https://github.com/user-attachments/assets/34c156ca-ca66-44aa-99f3-7be381e2a72e)
+![image](https://github.com/user-attachments/assets/05ac6b9f-23af-4f78-8bd2-898f4776538a)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+![image](https://github.com/user-attachments/assets/ec002237-317a-49b6-abc4-099a66936e8e)
+![image](https://github.com/user-attachments/assets/52920cbd-fe34-4759-86f4-750f4f2dd9ad)
+![image](https://github.com/user-attachments/assets/8af80f8f-6fb2-40b9-a48c-844414fd7108)
+![image](https://github.com/user-attachments/assets/e0b0a67b-b475-4f60-b33a-3d5bd7f072c9)
+![image](https://github.com/user-attachments/assets/139a242f-541b-4778-8fee-8241d8fd6ef4)
+![image](https://github.com/user-attachments/assets/7fc83c7f-759e-4271-b450-d3679d9f67a1)
+![image](https://github.com/user-attachments/assets/7523a80a-9a72-4dc2-b764-6a60ef1b27fa)
+![image](https://github.com/user-attachments/assets/3f166359-4186-4aa7-b36f-26534a9716bc)
+![image](https://github.com/user-attachments/assets/faba7bbe-88a5-44b5-a644-c8f313fb35b6)
+![image](https://github.com/user-attachments/assets/ebaa9164-7d38-4f94-86c4-4e47b7e874a9)
+![image](https://github.com/user-attachments/assets/f1587314-eac7-4a0c-a903-fba6ea8ce65a)
+![image](https://github.com/user-attachments/assets/b36a1ec0-1e1d-41a5-8d48-01b61e52cb72)
+![image](https://github.com/user-attachments/assets/1a8a8c5a-d183-4e25-b955-3448bf8e806f)
+![image](https://github.com/user-attachments/assets/5e11ea09-be6f-4861-bc95-5ae97be52893)
 
 
 
