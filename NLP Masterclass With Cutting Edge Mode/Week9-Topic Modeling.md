@@ -35,13 +35,23 @@
 ![image](https://github.com/user-attachments/assets/1ed66223-25bf-4e38-9450-991ec7188693)
 ![image](https://github.com/user-attachments/assets/54422d26-1483-4bac-b34f-fc21810fedd2)
 ![image](https://github.com/user-attachments/assets/98b01f0a-4a9a-4c9e-aec9-d87a7597c90e)
-document = sample of dataset
-words = features of data set
+document = sample of dataset;
+
+words = features of data set;
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/a3ac65e5-b9c6-4afb-9c7c-004a5521764a)
+![image](https://github.com/user-attachments/assets/b1544053-35de-499a-99c6-dc7b01a2a842)
+![image](https://github.com/user-attachments/assets/674d5f87-7461-4f38-bde3-c7fd3212dd51)
+![image](https://github.com/user-attachments/assets/4c9bb3a5-085e-4a00-9728-33c2e79259d2)
+![image](https://github.com/user-attachments/assets/97878f8b-341b-4eee-af6c-8bb448ff3572)
+![image](https://github.com/user-attachments/assets/03f546cc-2319-4136-836f-775ee20e0eed)
+![image](https://github.com/user-attachments/assets/4de0f1b6-d3e0-4635-bd6c-dc17dd373581)
+![image](https://github.com/user-attachments/assets/145942a6-2ee2-4144-9e90-61d6c6dc098b)
+![image](https://github.com/user-attachments/assets/8d0a0ba1-6935-4d31-a604-ca51a601e5fa)
+![image](https://github.com/user-attachments/assets/30556f6b-3ad4-4afc-9ce7-f0bbdfb56098)
+![image](https://github.com/user-attachments/assets/926bdfe0-3a56-46fa-80ca-a8daedc959b1)
 
-![image]()
-![image]()
-![image]()
+
 
 
