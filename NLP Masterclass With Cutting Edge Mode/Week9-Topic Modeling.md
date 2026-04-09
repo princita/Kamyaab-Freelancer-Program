@@ -29,10 +29,17 @@
 ![image](https://github.com/user-attachments/assets/1159c65d-22e2-4f02-bdf3-09761279eb03)
 ![image](https://github.com/user-attachments/assets/f5ddc5ee-b67a-405f-ad36-a22f69f4bb83)
 -----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/6dcd7ef7-6236-470a-a7b6-cff617c726ce)
+![image](https://github.com/user-attachments/assets/99b8be5d-c123-4d48-8e04-218c9768279c)
+![image](https://github.com/user-attachments/assets/84689293-fb04-4e02-b7d1-5bea0590acff)
+![image](https://github.com/user-attachments/assets/1ed66223-25bf-4e38-9450-991ec7188693)
+![image](https://github.com/user-attachments/assets/54422d26-1483-4bac-b34f-fc21810fedd2)
+![image](https://github.com/user-attachments/assets/98b01f0a-4a9a-4c9e-aec9-d87a7597c90e)
+document = sample of dataset
+words = features of data set
 
-![image]()
-![image]()
-![image]()
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 ![image]()
 ![image]()
 ![image]()
