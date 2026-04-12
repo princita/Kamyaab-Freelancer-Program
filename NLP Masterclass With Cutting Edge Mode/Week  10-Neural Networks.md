@@ -76,15 +76,31 @@
 ![image](https://github.com/user-attachments/assets/b65b4f1e-ce2c-4dae-ab17-d754de377406)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+mse -->used for regression 
+![image](https://github.com/user-attachments/assets/bd09f1f4-cfe5-4913-98ca-4d78eec487f7)
+![image](https://github.com/user-attachments/assets/0dc067e2-a09c-4b7f-87c0-7b8918fde003)
+![image](https://github.com/user-attachments/assets/0f2ce581-8d3b-4137-ba9e-f81bdb9f5226)
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+------------------------------------------------------------------------------------------------------------------------------------------
+
+cross entropy loss function used when classification
+![image](https://github.com/user-attachments/assets/fe88be7c-0067-474f-911f-47d860aca5f9)
+![image](https://github.com/user-attachments/assets/2793d99a-e60d-4d9b-927f-32b95c63f5a0)
+![image](https://github.com/user-attachments/assets/3a121221-e72f-4a89-be35-7a3878c62a17)
+![image](https://github.com/user-attachments/assets/f59dfe29-d47c-4236-bfea-58319fdb55fa)
+![image](https://github.com/user-attachments/assets/a866ee2a-5dbb-41a0-a8ab-1a54f120a634)
+![image](https://github.com/user-attachments/assets/74e4bd8b-a38b-414c-9188-ca23ecf27dca)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/c6f43b6c-4219-4bc3-a9d6-613331aa6530)
+![image](https://github.com/user-attachments/assets/8dd91deb-92da-4fc5-b9e3-1c0fdbb5b770)
+![image](https://github.com/user-attachments/assets/d236ab76-1be9-45b5-9688-dc806273c772)
+![image](https://github.com/user-attachments/assets/f18d3849-de1d-482b-88d4-7debc2a3fe42)
+![image](https://github.com/user-attachments/assets/7e2af1e6-c354-495d-a0d6-29a7d871e585)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 ![image]()
 ![image]()
 
